@@ -1,12 +1,11 @@
-.tarjeta {
-    border: 4px solid #ccc; /* Añade un borde sólido alrededor del contenedor de la tarjeta */
-    padding: 10px; /* Añade espacio interno entre el contenido de la tarjeta y su borde */
-    width: 200px; /* Define el ancho de la tarjeta */
-    margin: auto; /* Centra la tarjeta horizontalmente */
-    text-align: center; /* Alinea el texto al centro dentro de la tarjeta */
-    font-family: Arial, sans-serif; /* Define la familia de fuentes para el texto */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Añade una sombra al contenedor de la tarjeta */
-    border-radius: 8px; /* Redondea las esquinas del borde de la tarjeta */
-    background-color: #ffe600; /* Define el color de fondo de la tarjeta */
-  }
+img{
+  height: 150px;
+  width: 150px;
+}
+
+.pyramid{
+  display:flex;
+  flex-direction: column;
+  align-items:center;
+}
 
