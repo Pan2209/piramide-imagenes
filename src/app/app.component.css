@@ -1,12 +1,11 @@
-img{
+img {
   height: 125px;
   margin: 05px;
   width: 175px;
 }
 
-.pyramid{
-  display:flex;
+.pyramid {
+  display: flex;
   flex-direction: column;
-  align-items:center;
+  align-items: center;
 }
-

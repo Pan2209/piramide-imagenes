@@ -17,7 +17,7 @@ describe('AppComponent', () => {
   it(`should have the 'piramide-imagenes' title`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
-    expect(app.title).toEqual('piramide-imagenes');
+    expect(app.title).toEqual('piramide-imagenes'); 
   });
 
   it('should render title', () => {
